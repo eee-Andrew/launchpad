@@ -1,7 +1,7 @@
 # launchpad
 This project involves creating a standalone desktop application that uses the Spotify API to control music playback, packaged as a Windows executable (.exe) using PyInstaller,
 additionally has 3 buttons with drop down menu as shown in the image below. 
--_-_-_-_-_-_-_-_-_-_
+-------------------------------
 Arduino nano cost 4 euros &&
 Buttons + PCB = 1 euro 
 
